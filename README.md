@@ -57,7 +57,7 @@ If the driver’s eyes remain closed for a few seconds, the system triggers an *
 B. Bhanu Sai Prakash, B. Avinash, B. Naga Karthik, and Ch. Tarun  
 
 **Under the guidance of:**  
-Mr. K. V. Subba Raju, Assistant Professor  
+Mr. K. V. Subba Raju, Associate Professor  
 Department of Computer Science and Engineering  
 MVGR College of Engineering, Vizianagaram, India  
 
